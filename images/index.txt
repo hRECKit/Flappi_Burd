@@ -1,0 +1,4 @@
+background
+bird_down
+bird_up
+pipe
