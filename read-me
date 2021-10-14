@@ -1,0 +1,4 @@
+Created a replica of the iconic Flappy Bird game using Pygame, a python based graphic library. 
+I integrated basic game development concepts as well as OOP concepts like use of sprites, classes, functions, event handling, collision detection, game loop etc
+
+To run the program, downlaod repo and run "python flappyBird.py" on the terminal while accessing that folder, and enjoy the game :)
